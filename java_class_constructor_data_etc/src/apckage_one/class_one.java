@@ -5,7 +5,7 @@ import for_class.*; //for_class package 의 모든 class를 사용
 public class class_one {
 
 	public static void main(String[] args) {
-		
+		//원본 class 를 가지고 있는 파일에서 함수 앞이든 변수 앞이든 public 이라고 선언을 해야지 다른 package 에서 사용이 가능하다 
 		
 		smart_phone iPhone1; //
 		iPhone1 = new smart_phone();//객체 생성 
